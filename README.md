@@ -1,3 +1,4 @@
+
 # 日英ニューラル機械翻訳モデルの構築と課題分析
 
 ## 1. 概要 (Overview)
@@ -90,3 +91,4 @@ python lstm_nmt_with_attention.py
 ## 7. ライセンス (License)
 
 This project is licensed under the MIT License.
+
